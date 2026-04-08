@@ -430,7 +430,7 @@ const CHAT_CONFIG = {
   companyName: "LumaPet",
   botName: "SQU AI",
   logoUrl: "https://lumapet.co/cdn/shop/files/Logo.png?v=1754424456&width=600",
-  webhookUrl: "https://n8n.srv1208833.hstgr.cloud/webhook/LumaPet-chat",
+  webhookUrl: "https://n8n.srv1208833.hstgr.cloud/webhook/anker-chat",
   
   // Note: Use {companyName} to automatically insert the company name above.
   welcomeMessage: "Hi! I’m here to help you with your LumaPet product — ingredients, usage, or anything else you need.",
